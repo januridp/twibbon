@@ -1,3 +1,4 @@
+![GitHub deployments](https://img.shields.io/github/deployments/januridp/twibbon/github-pages?label=deployment&logo=github)
 ## twibbon
 This is a website where you can add a photo in a template.
 
